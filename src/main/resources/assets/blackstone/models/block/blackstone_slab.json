@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "blackstone:block/blackstone_top",
+        "top": "blackstone:block/blackstone_top",
+        "side": "blackstone:block/blackstone"
+    }
+}
