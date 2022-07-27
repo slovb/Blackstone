@@ -1,0 +1,7 @@
+{
+  "variants" : {
+    "" : {
+      "model" : "blackstone:block/polished_blackstone"
+    }
+  }
+}

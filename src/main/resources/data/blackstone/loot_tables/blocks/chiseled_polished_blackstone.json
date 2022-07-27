@@ -1,0 +1,13 @@
+{
+  "type" : "minecraft:block",
+  "pools" : [ {
+    "rolls" : 1,
+    "entries" : [ {
+      "type" : "minecraft:item",
+      "name" : "blackstone:chiseled_polished_blackstone"
+    } ],
+    "conditions" : [ {
+      "condition" : "minecraft:survives_explosion"
+    } ]
+  } ]
+}

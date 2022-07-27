@@ -1,5 +1,7 @@
 {
-	"variants": {
-		"": { "model": "blackstone:block/blackstone" }
-	}
+  "variants" : {
+    "" : {
+      "model" : "blackstone:block/blackstone"
+    }
+  }
 }

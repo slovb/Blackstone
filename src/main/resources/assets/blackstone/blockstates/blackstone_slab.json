@@ -1,7 +1,13 @@
 {
-    "variants": {
-        "type=bottom": { "model": "blackstone:block/blackstone_slab" },
-        "type=top": { "model": "blackstone:block/blackstone_slab_top" },
-        "type=double": { "model": "blackstone:block/blackstone" }
+  "variants" : {
+    "type=bottom" : {
+      "model" : "blackstone:block/blackstone_slab"
+    },
+    "type=top" : {
+      "model" : "blackstone:block/blackstone_slab_top"
+    },
+    "type=double" : {
+      "model" : "blackstone:block/blackstone"
     }
+  }
 }

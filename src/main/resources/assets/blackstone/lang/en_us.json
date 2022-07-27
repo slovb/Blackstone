@@ -1,5 +1,19 @@
 {
 	"item.blackstone.blackstone": "Blackstone",
 	"item.blackstone.blackstone_slab": "Blackstone Slab",
-	"item.blackstone.blackstone_stairs": "Blackstone Stairs"
+	"item.blackstone.blackstone_stairs": "Blackstone Stairs",
+	"item.blackstone.blackstone_wall": "Blackstone Wall",
+	"item.blackstone.chiseled_polished_blackstone": "Chiseled Polished Blackstone",
+	"item.blackstone.cracked_polished_blackstone_bricks": "Cracked Polished Blackstone Bricks",
+	"item.blackstone.gilded_blackstone": "Gilded Blackstone",
+	"item.blackstone.polished_blackstone": "Polished Blackstone",
+	"item.blackstone.polished_blackstone_slab": "Polished Blackstone Slab",
+	"item.blackstone.polished_blackstone_stairs": "Polished Blackstone Stairs",
+	"item.blackstone.polished_blackstone_wall": "Polished Blackstone Wall",
+	"item.blackstone.polished_blackstone_bricks": "Polished Blackstone Bricks",
+	"item.blackstone.polished_blackstone_brick_slab": "Polished Blackstone Brick Slab",
+	"item.blackstone.polished_blackstone_brick_stairs": "Polished Blackstone Brick Stairs",
+	"item.blackstone.polished_blackstone_brick_wall": "Polished Blackstone Brick Wall",
+	"item.blackstone.polished_blackstone_button": "Polished Blackstone Button",
+	"item.blackstone.polished_blackstone_pressure_plate": "Polished Blackstone Pressure Plate"
 }

@@ -1,0 +1,7 @@
+{
+  "variants" : {
+    "" : {
+      "model" : "blackstone:block/chiseled_polished_blackstone"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "blackstone:block/polished_blackstone"
+  }
+}

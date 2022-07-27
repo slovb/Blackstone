@@ -1,0 +1,10 @@
+{
+  "variants" : {
+    "powered=false" : {
+      "model" : "blackstone:block/polished_blackstone_pressure_plate"
+    },
+    "powered=true" : {
+      "model" : "blackstone:block/polished_blackstone_pressure_plate_down"
+    }
+  }
+}
