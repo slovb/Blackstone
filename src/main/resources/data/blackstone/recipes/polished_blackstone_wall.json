@@ -6,11 +6,11 @@
   ],
   "key": {
     "#": {
-       "item": "blackstone:polished_blackstone_bricks"
+       "item": "blackstone:polished_blackstone"
      }
   },
   "result": {
-    "item": "blackstone:polished_blackstone_brick_wall",
+    "item": "blackstone:polished_blackstone_wall",
     "count": 6
   }
 }

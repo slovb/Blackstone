@@ -5,11 +5,11 @@
   ],
   "key": {
     "#": {
-       "item": "blackstone:polished_blackstone"
+       "item": "blackstone:polished_blackstone_bricks"
      }
   },
   "result": {
-    "item": "blackstone:polished_blackstone_slab",
+    "item": "blackstone:polished_blackstone_brick_slab",
     "count": 6
   }
 }
